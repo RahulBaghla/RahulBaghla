@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Baghla</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Full Stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulbaghla&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbaghla" /> </p>
 
